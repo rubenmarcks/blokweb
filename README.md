@@ -44,7 +44,7 @@ Home pagina
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Accomodatie pagina
-<img src="images/accomodatie_airbnb.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/accommodatie_airbnb.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
